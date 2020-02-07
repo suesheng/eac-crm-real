@@ -1,0 +1,3 @@
+<?php
+$languageStrings = array(
+);

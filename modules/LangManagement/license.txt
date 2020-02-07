@@ -1,0 +1,48 @@
+End-User License Agreement (EULA) of Module "LangManagement"
+
+This End-User License Agreement ("EULA") is a legal agreement between you and It&M srl
+This EULA agreement governs your acquisition and use of our Module "LangManagement" software ("Software") directly from It&M srl or indirectly through a It&M srl authorized reseller or distributor (a "Reseller").
+Please read this EULA agreement carefully before completing the installation process and using the Module "LangManagement" software. It provides a license to use the Module "LangManagement" software and contains warranty information and liability disclaimers.
+If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
+This EULA agreement shall apply only to the Software supplied by It&M srl herewit regardless of whether other software is referred to or described herein. The terms also apply to any It&m srl updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
+
+License Grant
+
+It&M srl hereby grants you a personal, non-transferable, non-exclusive licence to use the Module "LangManagement" software on your Vtiger instance in accordance with the terms of this EULA agreement lifetime.
+You are permitted to load the Module "LangManagement" software on your one Vtiger Crm instance under your control. You are responsible for ensuring your server and your Vtiger CRM instance meets the minimum requirements of the Module "LangManagement" software.
+You are not permitted to:
+- Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things
+- Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
+- Allow any third party to use the Software on behalf of or for the benefit of any third party
+- Use the Software in any way which breaches any applicable local, national or international law
+- use the Software for any purpose that It&M srl considers is a breach of this EULA agreement
+
+Intellectual Property and Ownership
+
+It&M srl shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of It&M srl.
+It&M srl reserves the right to grant licences to use the Software to third parties.
+
+Warranty
+
+The Software is provided without any warranty; It&M Srl hereby disclaims any warranty that The Software shall be error free, without defects or code which may cause damage to Licensee’s computers or to Licensee, and that Software shall be functional. 
+Licensee shall be solely liable to any damage, defect or loss incurred as a result of operating software and undertake the risks contained in running The Software.
+
+Liability
+
+To the extent permitted under Law, The Software is provided under an AS-IS basis. Licensor shall never, and without any limit, be liable for any damage, cost, expense or any other payment incurred by Licensee as a result of Software’s actions, failure, 
+bugs and/or any other interaction between The Software and Licensee’s end-equipment, computers, other software or any 3rd party, end-equipment, computer or services. 
+Moreover, Licensor shall never be liable for any defect in source code written by Licensee when relying on The Software or using The Software’s source code.
+
+Upgrades, Updates and Fixes
+
+It&M Srl may provide Upgrades, Updates or Fixes, as detailed herein and according to his sole discretion during period of subsription. Licensee hereby warrants to keep The Software up-to-date and install all relevant updates and fixes, and may, at his sole discretion, purchase upgrades, according to the rates set by Licensor.
+
+Refound
+
+Full refound of money is guaranteed during first 15 days from date of purchase. No refoud is guaranteed after this period.
+
+Termination
+
+This EULA agreement is effective from the date you first use the Software and shall continue until terminated.
+
+It&M srl will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.

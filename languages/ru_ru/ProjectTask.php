@@ -1,0 +1,70 @@
+<?php
+/*+**********************************************************************************
+ * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+ * ("License"); You may not use this file except in compliance with the License
+ * The Original Code is:  vtiger CRM Open Source
+ * The Initial Developer of the Original Code is vtiger.
+ * Portions created by vtiger are Copyright (C) vtiger.
+ * All Rights Reserved.
+ ************************************************************************************/
+$languageStrings = array(
+	'Sending the order to the Debitor along with the original cover letter' => 'Отправка заказа Дебитору вместе с сопроводительным письмом в оригинале ',
+	'Control of payment to the Creditor' => 'Контроль оплаты Кредитору ',
+	'Control of receipt of payment from the Debitor' => 'Контроль получения оплаты от Дебитора',
+	'Sending Invoice to Debitor' => 'Отправка счета Дебитору',
+	'Sending order to the Debitor along with a cover letter in digital form' => 'Отправка заказа Дебитору вместе с сопроводительным письмом в дигитальном виде',
+	'Verification of completeness of documents in accordance with the order' => 'Проверка комплектности документов в соответствии с заказом',
+	'Approval of completed technical documentation by a responsible person at EAC Experts' => 'Утверждение готовой технической документации у ответственного лица в EAC Experts',
+	'Receipt of the original and the mark of entry in the register by the Creditor' => 'Получение оригинала и отметки о внесении в реестр Кредитором',
+	'Confirmation of the model of the declaration / certificate to the Creditor' => 'Подтверждение макета декларации/сертификата Кредитору',
+	'Approval of the model of the declaration / certificate at the Debitor' => 'Утверждение макета декларации/сертификата у Дебитора',
+	'Obtaining a declaration / certificate model from the Creditor' => 'Получение макета декларации/сертификата от Кредитора',
+	'Creation of additional technical documentation referred to in the proposal, in addition to declarations or certificates (passports, safety justifications, strength calculations)' => 'Создание дополнительной технической документации упомянутой в предложении, помимо деклараций или сертификатов (паспорта, обоснования безопасности, расчеты прочности)',
+	'Forwarding received documentation for processing to the Creditor' => 'Пересылка полученной документация на обработку Кредитору',
+	'Collection of additional documentation from the Debitor mentioned in the proposal.' => 'Сбор дополнительной документации у Дебитора упомянутой в предложении',
+	'Signing of the Applicant’s contract with the Debitor' => 'Подписание контракта Заявителя с Дебитором',
+	'Send Order Confirmation' => 'Высылается подтверждение заказа',
+	'Waiting for the Debitor to answer the offer, if yes, then select the status Completed' => 'Ожидание ответа Дебитора на предложение, если да, то (выбераем статус \"Completed\")',
+	'Formation of a commercial offer based on the response of the Creditors' => 'Формирование коммерческого предложения на основании ответа Кредиторов',
+	'Selection of the Creditor based on their offers' => 'Выбор Кредитора на основании данных ими предложений',
+	'Request for Proposal from Creditors' => 'Запрос предложения у Кредиторов',
+	'Initial request for documents from the Debitor' => 'Первичный запрос документов у Дебитора',
+	'Customer Request' => 'Запрос от Клиента',
+	'SINGLE_ProjectTask'	=>	"Задач проекта",
+	'LBL_ADD_RECORD'	=>	"Добавить задач проекта",
+	'LBL_RECORDS_LIST'	=>	"Списка задач проекта",
+	'LBL_PROJECT_TASK_INFORMATION'	=>	"Подробности задач проекта",
+	'LBL_PROJECTS_LIST'	=>	"Список проектов",
+	'LBL_TASKS_LIST'	=>	"Список задач",
+	'LBL_MILESTONES_LIST'	=>	"Вехи Список",
+	'Project Task Name'	=>	"Имя задач проекта",
+	'Project Task No'	=>	"Не задач проекта нет",
+	'Project Task Number'	=>	"Число задач проекта",
+	'Status'	=>	"Статус",
+	'Priority'	=>	"Приоритет",
+	'Progress'	=>	"Прогресс",
+	'Type'	=>	"Тип",
+	'Worked Hours'	=>	"Отработанных часов",
+	'Start Date'	=>	"Дата начала",
+	'End Date'	=>	"Дата окончания",
+	'Related to'	=>	"Связанный С",
+	'administrative' => 'Административный',
+    'operative' => 'Оперативный',
+    'other' => 'Другой',
+    'low' => 'Низкий',
+    'normal' => 'Нормальный',
+    'high' => 'Высокий',
+	'Created Time'	=>	"Время создания",
+	'Modified Time'	=>	"Времени изменения",
+	'description'	=>	"Описание",
+	'Assigned To'	=>	"Назначено",
+	'Open'	=>	"Открыть",
+	'In Progress'	=>	"В процессе",
+	'Completed'	=>	"Завершенный",
+	'Deferred'	=>	"Отложенный",
+	'Canceled'	=>	"Отменен",
+        'LBL_NO_DATE_VALUE_MSG' => 'или Задачи проекта не имеют начала и / или окончания',
+
+  'Canceled ' => 'Отменен',
+
+);

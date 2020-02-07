@@ -1,0 +1,20 @@
+<?php
+$languageStrings = array(
+'Customer Request'	=>	'Customer Request',
+'Initial request for documents from the Debtor'	=>	'Initial request for documents from the Debtor',
+'Request for Proposal from Creditors'	=>	'Request for Proposal from Creditors',
+'Selection of the Creditor based on their offers'	=>	'Selection of the Creditor based on their offers',
+'Formation of a commercial offer based on the response of the Creditors'	=>	'Formation of a commercial offer based on the response of the Creditors',
+'Waiting for the Debtor to answer the offer if yes then select the status Completed'	=>	'Waiting for the Debtor to answer the offer if yes then select the status Completed',
+'Send Order Confirmation'	=>	'Send Order Confirmation',
+'Signing of the Applicant’s contract with the Debtor'	=>	'Signing of the Applicant’s contract with the Debtor',
+'Collection of additional documentation from the Debtor mentioned in the proposal.'	=>	'Collection of additional documentation from the Debtor mentioned in the proposal.',
+'Forwarding received documentation for processing to the Creditor'	=>	'Forwarding received documentation for processing to the Creditor',
+'Creation of additional technical documentation referred to in the proposal, in addition to declarations or certificates (passports, safety justifications, strength calculations)'	=>	'Creation of additional technical documentation referred to in the proposal, in addition to declarations or certificates (passports, safety justifications, strength calculations)',
+'Obtaining a declaration / certificate template from the Creditor'	=>	'Obtaining a declaration / certificate template from the Creditor',
+'Approval of the model of the declaration / certificate at the Debtor'	=>	'Approval of the model of the declaration / certificate at the Debtor',
+'Confirmation of the model of the declaration / certificate to the Creditor'	=>	'Confirmation of the model of the declaration / certificate to the Creditor',
+'Receipt of the original and the mark of entry in the register by the Creditor'	=>	'Receipt of the original and the mark of entry in the register by the Creditor',
+'Approval of completed technical documentation by a responsible person at EAC Experts'	=>	'Approval of completed technical documentation by a responsible person at EAC Experts',
+'Sending order to the Debtor along with a cover letter in digital form'	=>	'Sending order to the Debtor along with a cover letter in digital form',
+);

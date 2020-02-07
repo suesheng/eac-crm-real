@@ -1,0 +1,71 @@
+<?php
+/*+**********************************************************************************
+ * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+ * ("License"); You may not use this file except in compliance with the License
+ * The Original Code is:  vtiger CRM Open Source
+ * The Initial Developer of the Original Code is vtiger.
+ * Portions created by vtiger are Copyright (C) vtiger.
+ * All Rights Reserved.
+ ************************************************************************************/
+$languageStrings = array(
+	'Project Tasks' => 'Projekt Aufgaben',
+	'Sending the order to the Debitor along with the original cover letter' => 'Senden Sie die Bestellung zusammen mit dem Original-Anschreiben an den Kunde',
+	'Control of payment to the Creditor' => 'Kontrolle der Zahlung an den Creditor',
+	'Control of receipt of payment from the Debitor' => 'Kontrolle des Zahlungseingangs vom Debitor',
+	'Sending Invoice to Debitor' => 'Rechnung an Debitor senden',
+	'Sending order to the Debitor along with a cover letter in digital form' => 'Versandauftrag an den Debitor zusammen mit einem Anschreiben in digitaler Form',
+	'Verification of completeness of documents in accordance with the order' => 'Überprüfung der Vollständigkeit der Unterlagen gemäß der Bestellung',
+	'Approval of completed technical documentation by a responsible person at EAC Experts' => 'Genehmigung der vollständigen technischen Dokumentation durch eine verantwortliche Person bei EAC Experts',
+	'Receipt of the original and the mark of entry in the register by the Creditor' => 'Erhalt des Originals und der Eintragungsmarke in das Register durch den Gläubiger',
+	'Confirmation of the model of the declaration / certificate to the Creditor' => 'Bestätigung des Modells der Erklärung / Bescheinigung an den Creditor',
+	'Approval of the model of the declaration / certificate at the Debitor' => 'Genehmigung der Deklaration/Zertifikates beim Debitor',
+	'Obtaining a declaration / certificate model from the Creditor' => 'Beschaffung eines Deklarations- / Zertifikatsmodells vom Creditor',
+	'Creation of additional technical documentation referred to in the proposal, in addition to declarations or certificates (passports, safety justifications, strength calculations)' => 'Erstellung zusätzlicher technischer Unterlagen, auf die in dem Vorschlag verwiesen wird, zusätzlich zu Erklärungen oder Bescheinigungen (Pässe, Sicherheitsgründe, Festigkeitsberechnungen)',
+	'Forwarding received documentation for processing to the Creditor' => 'Weiterleitung empfangener Unterlagen zur Bearbeitung an den Creditor',
+	'Collection of additional documentation from the Debitor mentioned in the proposal.' => 'Sammlung zusätzlicher Unterlagen des im Vorschlag genannten Debitors.',
+	'Signing of the Applicant’s contract with the Debitor' => 'Unterzeichnung des Antragstellervertrag mit dem Debitor',
+	'Send Order Confirmation' => 'Sendung der Auftragsbestätigung',
+	'Waiting for the Debitor to answer the offer, if yes, then select the status Completed' => 'Unterzeichnung des Antragstellervertrag mit dem Debitor. Wenn Sie darauf warten, dass der Creditor das Angebot beantwortet, wenn ja, wählen Sie den Status Abgeschlossen aus',
+	'Formation of a commercial offer based on the response of the Creditors' => 'Erstellung eines kommerziellen Angebots auf der Grundlage der Antwort der Creditor',
+	'Selection of the Creditor based on their offers' => 'Auswahl des Kreditor anhand seiner Angebote',
+	'Request for Proposal from Creditors' => 'Antrag auf Antrag von Kreditor',
+	'Initial request for documents from the Debitor' => 'Erste Anforderung von Dokumenten vom Debitor',
+	'Customer Request' => 'Kundenanfrage',
+	'SINGLE_ProjectTask'	=>	"Projektaufgabe",
+	'LBL_ADD_RECORD'	=>	"Projektaufgabe hinzufügen",
+	'LBL_RECORDS_LIST'	=>	"Verfügbare Projekte",
+	'LBL_PROJECT_TASK_INFORMATION'	=>	"Projektaufgabe Details",
+	'LBL_PROJECTS_LIST'	=>	"Projekte Liste",
+	'LBL_TASKS_LIST'	=>	"Aufgabenliste",
+	'LBL_MILESTONES_LIST'	=>	"Meilensteine ​​Liste",
+	'Project Task Name'	=>	"Projekt Task-Name",
+	'Project Task No'	=>	"Projektaufgabe Nummer",
+	'Project Task Number'	=>	"Projektaufgabe Anzahl",
+	'Status' => 'Statusbericht',
+	'Priority'	=>	"Priorität",
+	'Progress'	=>	"Fortschritt",
+	'Type'	=>	"Typ",
+	'Worked Hours'	=>	"Arbeitsstunden",
+	'Start Date'	=>	"Startdatum",
+	'End Date'	=>	"End Datum",
+	'Related to'	=>	"Bezug zu",
+	'administrative' => 'Administrativ',
+    'operative' => 'Operativ',
+    'other' => 'Andere',
+    'low' => 'Niedrig',
+    'normal' => 'Normal',
+    'high' => 'Hoch',
+	'Created Time'	=>	"Erstellt Zeit",
+	'Modified Time'	=>	"Geändert Zeit",
+	'description'	=>	"Beschreibung",
+	'Assigned To'	=>	"Zuständig",
+	'Open'	=>	"Öffnen",
+	'In Progress'	=>	"in Bearbeitung",
+	'Completed'	=>	"Fertiggestellt",
+	'Deferred'	=>	"Zurückgestellt",
+	'Canceled' => 'Abgebrochen',
+        'LBL_NO_DATE_VALUE_MSG' => 'oder Projektaufgaben nicht starten und / oder Enddatum',
+
+  'Canceled ' => 'Abgebrochen',
+
+);

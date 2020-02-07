@@ -1,0 +1,19 @@
+<?php
+
+
+//This is the access privilege file
+$is_admin=true;
+
+$user_info=array('user_name'=>'dv','is_admin'=>'on','user_password'=>'$1$dv000000$fn9KCkCvzpqihl8OaC5c21','confirm_password'=>'$1$dv000000$fn9KCkCvzpqihl8OaC5c21','first_name'=>'Denis','last_name'=>'Vilensky','roleid'=>'H6','email1'=>'d.vilensky@eac-experts.de','status'=>'Active','activity_view'=>'This Month','lead_view'=>'Today','hour_format'=>'24','end_hour'=>'','start_hour'=>'09:00','is_owner'=>'','title'=>'Project Manager','phone_work'=>'+49 211 229 801-76','department'=>'','phone_mobile'=>'+49 151 226 049 68','reports_to_id'=>'','phone_other'=>'','email2'=>'','phone_fax'=>'+49 211 229 801-99','secondaryemail'=>'','phone_home'=>'','date_format'=>'dd-mm-yyyy','signature'=>'&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:.0001pt;line-height:normal;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial, sans-serif;&quot;&gt;Best Regards&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:.0001pt;line-height:normal;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial, sans-serif;&quot;&gt;Denis Vilensky&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family:Arial, sans-serif;font-size:10pt;&quot;&gt;Projekt Manager&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:.0001pt;line-height:normal;&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial, sans-serif;&quot;&gt;--&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;color:rgb(18,132,153);font-family:Arial, sans-serif;font-size:10pt;&quot;&gt;Grafenberger Allee 115&nbsp;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;color:rgb(18,132,153);font-family:Arial, sans-serif;font-size:10pt;&quot;&gt;D-40237 Duesseldorf&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;color:rgb(18,132,153);&quot;&gt;Phone:&nbsp;&nbsp; +49 211 229 801-76&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;color:rgb(18,132,153);&quot;&gt;Mob:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +49&nbsp;151 226 049 68&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;color:rgb(18,132,153);&quot;&gt;Fax:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +49 211 229 801-99&lt;/span&gt;&lt;br /&gt;&lt;a href=&quot;mailto:d.vilensky@eac-experts.de&quot;&gt;&lt;span lang=&quot;en-us&quot; xml:lang=&quot;en-us&quot;&gt;d.vilensky@eac-experts.de&lt;/span&gt;&lt;/a&gt;&lt;span lang=&quot;en-us&quot; xml:lang=&quot;en-us&quot;&gt;&nbsp;&lt;/span&gt;&lt;br /&gt;&lt;a href=&quot;http://www.eac-experts.de&quot;&gt;www.eac-experts.de&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:.0001pt;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;','description'=>'','address_street'=>'Grafenberger Allee 115','address_city'=>'Duesseldorf','address_state'=>'NRW','address_postalcode'=>'40237','address_country'=>'Deutschland','accesskey'=>'tXJX6Li1JWx3Rfma','time_zone'=>'Europe/Amsterdam','currency_id'=>'2','currency_grouping_pattern'=>'123,456,789','currency_decimal_separator'=>'.','currency_grouping_separator'=>',','currency_symbol_placement'=>'1.0$','imagename'=>'dv.jpg','internal_mailer'=>'0','theme'=>'softed','language'=>'en_us','reminder_interval'=>'5 Minutes','phone_crm_extension'=>'','no_of_currency_decimals'=>'2','truncate_trailing_zeros'=>'1','dayoftheweek'=>'Monday','callduration'=>'5','othereventduration'=>'5','calendarsharedtype'=>'public','default_record_view'=>'Summary','leftpanelhide'=>'0','rowheight'=>'medium','defaulteventstatus'=>'Select an Option','defaultactivitytype'=>'Select an Option','hidecompletedevents'=>'0','defaultcalendarview'=>'ListView','currency_name'=>'Euro','currency_code'=>'EUR','currency_symbol'=>'&#8364;','conv_rate'=>'0.85000','record_id'=>'','record_module'=>'','id'=>'13');
+
+?>

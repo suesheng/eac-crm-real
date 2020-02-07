@@ -1,0 +1,1297 @@
+Mon Nov 12 10:00:30 2018,013 [22639] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Nov 12 10:00:30 2018,013 [22639] FATAL VT - NULL
+Mon Nov 12 10:00:30 2018,013 [22639] FATAL VT - Documents_22
+Mon Nov 12 10:00:30 2018,039 [22639] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Nov 12 10:00:30 2018,039 [22639] FATAL VT - NULL
+Mon Nov 12 10:00:30 2018,039 [22639] FATAL VT - Documents_22
+Mon Nov 19 12:58:02 2018,256 [22093] FATAL VT - id:--52
+Mon Nov 19 12:58:02 2018,257 [22093] FATAL VT - return_module:--Accounts
+Mon Nov 19 12:58:02 2018,257 [22093] FATAL VT - return_id:---2
+Mon Nov 19 14:40:58 2018,538 [23647] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Nov 19 14:40:58 2018,538 [23647] FATAL VT - NULL
+Mon Nov 19 14:40:58 2018,538 [23647] FATAL VT - Documents_22
+Mon Nov 19 14:40:58 2018,559 [23647] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Nov 19 14:40:58 2018,559 [23647] FATAL VT - NULL
+Mon Nov 19 14:40:58 2018,560 [23647] FATAL VT - Documents_22
+Tue Dec 11 07:56:26 2018,981 [1820] FATAL VT - Links Removed
+Tue Dec 11 07:56:26 2018,987 [1820] FATAL VT - Lookup Events Unregistered
+Tue Dec 11 07:56:26 2018,990 [1820] FATAL VT - Settings Field Removed
+Tue Dec 11 07:56:27 2018,005 [1820] FATAL VT - ReceiveIncomingcalls ActionName Removed
+Tue Dec 11 07:56:27 2018,019 [1820] FATAL VT - MakeOutgoingCalls ActionName Removed
+Tue Dec 11 07:56:27 2018,022 [1820] FATAL VT - Successfully removed Module Related lists
+Mon Dec 17 09:42:33 2018,340 [5223] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Dec 17 09:42:33 2018,340 [5223] FATAL VT - NULL
+Mon Dec 17 09:42:33 2018,341 [5223] FATAL VT - Documents_22
+Mon Dec 17 09:42:33 2018,365 [5223] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Dec 17 09:42:33 2018,365 [5223] FATAL VT - NULL
+Mon Dec 17 09:42:33 2018,365 [5223] FATAL VT - Documents_22
+Mon Dec 17 09:42:41 2018,097 [5028] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => 'MARKETING',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '01. Certifications',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Dec 17 09:42:43 2018,609 [5028] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '03. Invoices',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Dec 17 09:42:45 2018,999 [5028] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '04. Offers',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Dec 17 09:42:46 2018,787 [5028] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '02. Technical Specifications',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Dec 17 09:42:48 2018,249 [5028] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Dec 17 09:43:02 2018,998 [5221] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+)
+Mon Dec 17 09:43:03 2018,017 [5221] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+)
+Mon Dec 17 18:45:19 2018,407 [8322] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Dec 17 18:45:19 2018,407 [8322] FATAL VT - NULL
+Mon Dec 17 18:45:19 2018,407 [8322] FATAL VT - Documents_22
+Mon Dec 17 18:45:19 2018,425 [8322] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Dec 17 18:45:19 2018,425 [8322] FATAL VT - NULL
+Mon Dec 17 18:45:19 2018,425 [8322] FATAL VT - Documents_22
+Mon Dec 17 18:45:24 2018,871 [9309] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+  'viewname' => '22',
+  'app' => 'MARKETING',
+)
+Mon Dec 17 18:45:24 2018,872 [9309] FATAL VT - NULL
+Mon Dec 17 18:45:24 2018,872 [9309] FATAL VT - Documents_22
+Mon Dec 17 18:45:24 2018,887 [9309] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+  'viewname' => '22',
+  'app' => 'MARKETING',
+)
+Mon Dec 17 18:45:24 2018,887 [9309] FATAL VT - NULL
+Mon Dec 17 18:45:24 2018,887 [9309] FATAL VT - Documents_22
+Mon Dec 17 18:45:34 2018,046 [9307] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => 'MARKETING',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '["notes_title","filename","modifiedtime","assigned_user_id","filelocationtype","filestatus"]',
+  'tag' => '',
+  '_pjax' => '#pjaxContainer',
+)
+Fri Dec 28 09:41:37 2018,960 [24482] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Dec 28 09:41:37 2018,961 [24482] FATAL VT - NULL
+Fri Dec 28 09:41:37 2018,961 [24482] FATAL VT - Documents_22
+Fri Dec 28 09:41:37 2018,986 [24482] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Dec 28 09:41:37 2018,986 [24482] FATAL VT - NULL
+Fri Dec 28 09:41:37 2018,987 [24482] FATAL VT - Documents_22
+Tue Jan  8 15:11:34 2019,557 [13630] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue Jan  8 15:11:34 2019,557 [13630] FATAL VT - NULL
+Tue Jan  8 15:11:34 2019,557 [13630] FATAL VT - Documents_22
+Tue Jan  8 15:11:34 2019,587 [13630] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue Jan  8 15:11:34 2019,587 [13630] FATAL VT - NULL
+Tue Jan  8 15:11:34 2019,587 [13630] FATAL VT - Documents_22
+Tue Jan  8 15:11:54 2019,209 [14660] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue Jan  8 15:11:54 2019,209 [14660] FATAL VT - NULL
+Tue Jan  8 15:11:54 2019,209 [14660] FATAL VT - Documents_22
+Tue Jan  8 15:11:54 2019,223 [14660] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue Jan  8 15:11:54 2019,223 [14660] FATAL VT - NULL
+Tue Jan  8 15:11:54 2019,223 [14660] FATAL VT - Documents_22
+Tue Jan  8 15:12:00 2019,441 [13630] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => 'MARKETING',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '03. Invoices',
+  '_pjax' => '#pjaxContainer',
+)
+Tue Jan  8 15:12:02 2019,243 [13630] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '04. Offers',
+  '_pjax' => '#pjaxContainer',
+)
+Tue Jan  8 15:12:03 2019,476 [13630] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Jan 14 07:44:12 2019,887 [31006] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Jan 14 07:44:12 2019,887 [31006] FATAL VT - NULL
+Mon Jan 14 07:44:12 2019,887 [31006] FATAL VT - Documents_22
+Mon Jan 14 07:44:12 2019,910 [31006] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Jan 14 07:44:12 2019,910 [31006] FATAL VT - NULL
+Mon Jan 14 07:44:12 2019,911 [31006] FATAL VT - Documents_22
+Thu Jan 31 09:02:56 2019,663 [31375] FATAL VT - 8
+Thu Jan 31 09:02:56 2019,663 [31375] FATAL VT - SELECT * FROM vtiger_freetags WHERE (tag='MSK-P' OR raw_tag='MSK-P') AND (owner='5' OR visibility='public') AND id != '8'
+Wed Feb 13 11:31:54 2019,820 [16865] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Wed Feb 13 11:31:54 2019,820 [16865] FATAL VT - NULL
+Wed Feb 13 11:31:54 2019,820 [16865] FATAL VT - Documents_22
+Wed Feb 13 11:31:54 2019,844 [16865] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Wed Feb 13 11:31:54 2019,844 [16865] FATAL VT - NULL
+Wed Feb 13 11:31:54 2019,844 [16865] FATAL VT - Documents_22
+Mon Feb 18 10:24:22 2019,143 [29909] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Feb 18 10:24:22 2019,143 [29909] FATAL VT - NULL
+Mon Feb 18 10:24:22 2019,143 [29909] FATAL VT - Documents_22
+Mon Feb 18 10:24:22 2019,167 [29909] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Feb 18 10:24:22 2019,168 [29909] FATAL VT - NULL
+Mon Feb 18 10:24:22 2019,168 [29909] FATAL VT - Documents_22
+Mon Feb 18 10:25:15 2019,691 [29922] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Feb 18 10:25:15 2019,695 [29922] FATAL VT - NULL
+Mon Feb 18 10:25:15 2019,695 [29922] FATAL VT - Documents_22
+Mon Feb 18 10:25:15 2019,735 [29922] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Feb 18 10:25:15 2019,735 [29922] FATAL VT - NULL
+Mon Feb 18 10:25:15 2019,735 [29922] FATAL VT - Documents_22
+Mon Feb 18 10:25:33 2019,596 [29937] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => 'MARKETING',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Feb 18 10:25:34 2019,547 [29937] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '01. Certifications',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Feb 18 10:25:43 2019,132 [29947] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Feb 18 10:25:44 2019,324 [29947] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Feb 18 10:25:46 2019,612 [29947] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Feb 18 10:25:48 2019,106 [29947] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Feb 18 10:25:49 2019,745 [29947] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Feb 18 10:26:03 2019,745 [29912] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+)
+Mon Feb 18 10:26:03 2019,762 [29912] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => 'Default',
+)
+Tue Feb 19 07:44:28 2019,702 [17852] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue Feb 19 07:44:28 2019,703 [17852] FATAL VT - NULL
+Tue Feb 19 07:44:28 2019,703 [17852] FATAL VT - Documents_22
+Tue Feb 19 07:44:28 2019,731 [17852] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue Feb 19 07:44:28 2019,731 [17852] FATAL VT - NULL
+Tue Feb 19 07:44:28 2019,731 [17852] FATAL VT - Documents_22
+Fri Mar  1 08:48:45 2019,147 [24802] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Mar  1 08:48:45 2019,148 [24802] FATAL VT - NULL
+Fri Mar  1 08:48:45 2019,148 [24802] FATAL VT - Documents_22
+Fri Mar  1 08:48:45 2019,180 [24802] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Mar  1 08:48:45 2019,180 [24802] FATAL VT - NULL
+Fri Mar  1 08:48:45 2019,180 [24802] FATAL VT - Documents_22
+Fri Mar  8 08:42:18 2019,596 [14824] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Mar  8 08:42:18 2019,597 [14824] FATAL VT - NULL
+Fri Mar  8 08:42:18 2019,597 [14824] FATAL VT - Documents_22
+Fri Mar  8 08:42:18 2019,656 [14824] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Mar  8 08:42:18 2019,656 [14824] FATAL VT - NULL
+Fri Mar  8 08:42:18 2019,656 [14824] FATAL VT - Documents_22
+Fri Mar  8 08:42:45 2019,851 [14823] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Mar  8 08:42:45 2019,851 [14823] FATAL VT - NULL
+Fri Mar  8 08:42:45 2019,851 [14823] FATAL VT - Documents_22
+Fri Mar  8 08:42:45 2019,869 [14823] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Mar  8 08:42:45 2019,869 [14823] FATAL VT - NULL
+Fri Mar  8 08:42:45 2019,869 [14823] FATAL VT - Documents_22
+Fri Mar  8 08:43:03 2019,802 [16151] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Mar  8 08:43:03 2019,802 [16151] FATAL VT - NULL
+Fri Mar  8 08:43:03 2019,802 [16151] FATAL VT - Documents_22
+Fri Mar  8 08:43:03 2019,830 [16151] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Mar  8 08:43:03 2019,830 [16151] FATAL VT - NULL
+Fri Mar  8 08:43:03 2019,830 [16151] FATAL VT - Documents_22
+Thu Apr  4 06:59:47 2019,093 [7595] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Thu Apr  4 06:59:47 2019,094 [7595] FATAL VT - NULL
+Thu Apr  4 06:59:47 2019,094 [7595] FATAL VT - Documents_22
+Thu Apr  4 06:59:47 2019,132 [7595] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Thu Apr  4 06:59:47 2019,132 [7595] FATAL VT - NULL
+Thu Apr  4 06:59:47 2019,132 [7595] FATAL VT - Documents_22
+Mon Apr  8 12:47:53 2019,710 [30516] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Apr  8 12:47:53 2019,710 [30516] FATAL VT - NULL
+Mon Apr  8 12:47:53 2019,710 [30516] FATAL VT - Documents_22
+Mon Apr  8 12:47:53 2019,749 [30516] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Apr  8 12:47:53 2019,749 [30516] FATAL VT - NULL
+Mon Apr  8 12:47:53 2019,749 [30516] FATAL VT - Documents_22
+Thu Apr 25 14:01:57 2019,537 [5310] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Thu Apr 25 14:01:57 2019,537 [5310] FATAL VT - NULL
+Thu Apr 25 14:01:57 2019,537 [5310] FATAL VT - Documents_22
+Thu Apr 25 14:01:57 2019,654 [5310] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Thu Apr 25 14:01:57 2019,654 [5310] FATAL VT - NULL
+Thu Apr 25 14:01:57 2019,654 [5310] FATAL VT - Documents_22
+Thu Apr 25 14:02:14 2019,885 [6749] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Thu Apr 25 14:02:14 2019,885 [6749] FATAL VT - NULL
+Thu Apr 25 14:02:14 2019,885 [6749] FATAL VT - Documents_22
+Thu Apr 25 14:02:14 2019,911 [6749] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Thu Apr 25 14:02:14 2019,911 [6749] FATAL VT - NULL
+Thu Apr 25 14:02:14 2019,911 [6749] FATAL VT - Documents_22
+Tue May  7 13:49:08 2019,490 [26504] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue May  7 13:49:08 2019,490 [26504] FATAL VT - NULL
+Tue May  7 13:49:08 2019,490 [26504] FATAL VT - Documents_22
+Tue May  7 13:49:08 2019,526 [26504] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue May  7 13:49:08 2019,526 [26504] FATAL VT - NULL
+Tue May  7 13:49:08 2019,526 [26504] FATAL VT - Documents_22
+Mon May 13 13:31:32 2019,660 [28124] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon May 13 13:31:32 2019,661 [28124] FATAL VT - NULL
+Mon May 13 13:31:32 2019,661 [28124] FATAL VT - Documents_22
+Mon May 13 13:31:32 2019,698 [28124] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon May 13 13:31:32 2019,698 [28124] FATAL VT - NULL
+Mon May 13 13:31:32 2019,698 [28124] FATAL VT - Documents_22
+Tue Jun  4 09:15:25 2019,552 [11949] FATAL VT - 13
+Tue Jun  4 09:15:25 2019,553 [11949] FATAL VT - SELECT * FROM vtiger_freetags WHERE (tag='ТР 012' OR raw_tag='ТР 012') AND (owner='13' OR visibility='public') AND id != '13'
+Wed Jun 12 10:02:09 2019,175 [14064] FATAL VT - 11
+Wed Jun 12 10:02:09 2019,176 [14064] FATAL VT - SELECT * FROM vtiger_freetags WHERE (tag='ABL' OR raw_tag='ABL') AND (owner='5' OR visibility='public') AND id != '11'
+Wed Jun 12 10:02:16 2019,773 [14181] FATAL VT - 12
+Wed Jun 12 10:02:16 2019,774 [14181] FATAL VT - SELECT * FROM vtiger_freetags WHERE (tag='YI' OR raw_tag='YI') AND (owner='5' OR visibility='public') AND id != '12'
+Thu Jun 13 13:56:50 2019,109 [22587] FATAL VT - 15
+Thu Jun 13 13:56:50 2019,110 [22587] FATAL VT - SELECT * FROM vtiger_freetags WHERE (tag=' NK' OR raw_tag=' NK') AND (owner='5' OR visibility='public') AND id != '15'
+Fri Jun 14 11:59:17 2019,027 [29061] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Jun 14 11:59:17 2019,027 [29061] FATAL VT - NULL
+Fri Jun 14 11:59:17 2019,027 [29061] FATAL VT - Documents_22
+Fri Jun 14 11:59:17 2019,064 [29061] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Jun 14 11:59:17 2019,064 [29061] FATAL VT - NULL
+Fri Jun 14 11:59:17 2019,064 [29061] FATAL VT - Documents_22
+Fri Jun 21 11:41:52 2019,832 [1387] FATAL VT - 15
+Fri Jun 21 11:41:52 2019,833 [1387] FATAL VT - SELECT * FROM vtiger_freetags WHERE (tag=' NK' OR raw_tag=' NK') AND (owner='5' OR visibility='public') AND id != '15'
+Fri Jul  5 11:12:36 2019,330 [15157] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Jul  5 11:12:36 2019,330 [15157] FATAL VT - NULL
+Fri Jul  5 11:12:36 2019,330 [15157] FATAL VT - Documents_22
+Fri Jul  5 11:12:36 2019,356 [15157] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Jul  5 11:12:36 2019,356 [15157] FATAL VT - NULL
+Fri Jul  5 11:12:36 2019,356 [15157] FATAL VT - Documents_22
+Mon Aug 12 14:12:36 2019,124 [13108] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:12:36 2019,125 [13108] FATAL VT - NULL
+Mon Aug 12 14:12:36 2019,125 [13108] FATAL VT - Documents_22
+Mon Aug 12 14:12:36 2019,159 [13108] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:12:36 2019,159 [13108] FATAL VT - NULL
+Mon Aug 12 14:12:36 2019,159 [13108] FATAL VT - Documents_22
+Mon Aug 12 14:12:53 2019,476 [13105] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => 'MARKETING',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '["notes_title","filename","modifiedtime","assigned_user_id","filelocationtype","filestatus"]',
+  'tag' => '',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Aug 12 14:12:58 2019,189 [13105] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '02. Technical Specifications',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Aug 12 14:13:01 2019,201 [13105] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '04. Offers',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Aug 12 14:13:04 2019,387 [13105] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '03. Invoices',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Aug 12 14:13:14 2019,194 [13097] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '03. Invoices',
+)
+Mon Aug 12 14:13:14 2019,207 [13097] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '03. Invoices',
+)
+Mon Aug 12 14:13:37 2019,502 [13069] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:13:37 2019,502 [13069] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:13:37 2019,502 [13069] FATAL VT - Documents_22
+Mon Aug 12 14:13:37 2019,518 [13069] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:13:37 2019,518 [13069] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:13:37 2019,518 [13069] FATAL VT - Documents_22
+Mon Aug 12 14:13:53 2019,954 [13067] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => 'MARKETING',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '02. Technical Specifications',
+  '_pjax' => '#pjaxContainer',
+)
+Mon Aug 12 14:20:07 2019,022 [13913] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:20:07 2019,022 [13913] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:20:07 2019,022 [13913] FATAL VT - Documents_22
+Mon Aug 12 14:20:07 2019,042 [13913] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:20:07 2019,042 [13913] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:20:07 2019,042 [13913] FATAL VT - Documents_22
+Mon Aug 12 14:20:18 2019,595 [13912] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:20:18 2019,596 [13912] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:20:18 2019,596 [13912] FATAL VT - Documents_22
+Mon Aug 12 14:20:18 2019,618 [13912] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:20:18 2019,618 [13912] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:20:18 2019,618 [13912] FATAL VT - Documents_22
+Mon Aug 12 14:20:56 2019,518 [13913] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:20:56 2019,518 [13913] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:20:56 2019,518 [13913] FATAL VT - Documents_22
+Mon Aug 12 14:20:56 2019,537 [13913] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:20:56 2019,537 [13913] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:20:56 2019,537 [13913] FATAL VT - Documents_22
+Mon Aug 12 14:23:00 2019,187 [13911] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:23:00 2019,187 [13911] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:23:00 2019,187 [13911] FATAL VT - Documents_22
+Mon Aug 12 14:23:00 2019,209 [13911] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:23:00 2019,209 [13911] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:23:00 2019,209 [13911] FATAL VT - Documents_22
+Mon Aug 12 14:23:51 2019,689 [13774] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:23:51 2019,690 [13774] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:23:51 2019,690 [13774] FATAL VT - Documents_22
+Mon Aug 12 14:23:51 2019,706 [13774] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:23:51 2019,706 [13774] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:23:51 2019,707 [13774] FATAL VT - Documents_22
+Mon Aug 12 14:24:06 2019,558 [13076] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:24:06 2019,558 [13076] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:24:06 2019,558 [13076] FATAL VT - Documents_22
+Mon Aug 12 14:24:06 2019,582 [13076] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Mon Aug 12 14:24:06 2019,582 [13076] FATAL VT - array (
+  'page' => '1',
+  'orderby' => '',
+  'sortorder' => '',
+  'search_key' => '',
+  'search_value' => '',
+  'operator' => '',
+  'tag_params' => 
+  array (
+  ),
+  'search_params' => 
+  array (
+  ),
+  'list_headers' => 
+  array (
+    0 => 'notes_title',
+    1 => 'filename',
+    2 => 'modifiedtime',
+    3 => 'assigned_user_id',
+    4 => 'filelocationtype',
+    5 => 'filestatus',
+  ),
+)
+Mon Aug 12 14:24:06 2019,582 [13076] FATAL VT - Documents_22
+Wed Aug 28 07:40:19 2019,708 [6900] FATAL VT - 22
+Wed Aug 28 07:40:19 2019,708 [6900] FATAL VT - SELECT * FROM vtiger_freetags WHERE (tag='TR 020' OR raw_tag='TR 020') AND (owner='11' OR visibility='public') AND id != '22'
+Tue Sep 24 10:02:22 2019,819 [5490] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue Sep 24 10:02:22 2019,819 [5490] FATAL VT - NULL
+Tue Sep 24 10:02:22 2019,819 [5490] FATAL VT - Documents_22
+Tue Sep 24 10:02:22 2019,846 [5490] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue Sep 24 10:02:22 2019,847 [5490] FATAL VT - NULL
+Tue Sep 24 10:02:22 2019,847 [5490] FATAL VT - Documents_22
+Tue Sep 24 10:02:41 2019,313 [6669] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue Sep 24 10:02:41 2019,313 [6669] FATAL VT - NULL
+Tue Sep 24 10:02:41 2019,313 [6669] FATAL VT - Documents_22
+Tue Sep 24 10:02:41 2019,352 [6669] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Tue Sep 24 10:02:41 2019,352 [6669] FATAL VT - NULL
+Tue Sep 24 10:02:41 2019,352 [6669] FATAL VT - Documents_22
+Tue Sep 24 10:02:49 2019,252 [5589] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => 'MARKETING',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '03. Invoices',
+  '_pjax' => '#pjaxContainer',
+)
+Tue Sep 24 10:02:50 2019,760 [5589] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '04. Offers',
+  '_pjax' => '#pjaxContainer',
+)
+Tue Sep 24 10:02:52 2019,420 [5589] FATAL VT - array (
+  'module' => 'Documents',
+  'parent' => '',
+  'page' => '1',
+  'view' => 'List',
+  'viewname' => '22',
+  'orderby' => '',
+  'sortorder' => '',
+  'app' => '',
+  'search_params' => '[]',
+  'tag_params' => '[]',
+  'nolistcache' => '0',
+  'list_headers' => '',
+  'tag' => '',
+  'folder_id' => 'folderid',
+  'folder_value' => '02. Technical Specifications',
+  '_pjax' => '#pjaxContainer',
+)
+Fri Oct 11 10:30:50 2019,701 [434] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Oct 11 10:30:50 2019,701 [434] FATAL VT - NULL
+Fri Oct 11 10:30:50 2019,701 [434] FATAL VT - Documents_22
+Fri Oct 11 10:30:50 2019,736 [434] FATAL VT - array (
+  'module' => 'Documents',
+  'view' => 'List',
+)
+Fri Oct 11 10:30:50 2019,736 [434] FATAL VT - NULL
+Fri Oct 11 10:30:50 2019,736 [434] FATAL VT - Documents_22
