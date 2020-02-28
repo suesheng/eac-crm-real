@@ -130,7 +130,7 @@ function groupProds(selector, total = true) {
                 if (numberToPrice(quantity) == 0) {
                     totalEle.innerHTML = '<span style="font-family:verdana,geneva,sans-serif;"><strong>Optional</strong></span>';
                 } else {
-                    totalEle.innerHTML = '<span style="font-family:verdana,geneva,sans-serif;"><strong>' + parseInt(numberToPrice(quantity * stringToNumber(price))).format(2) + " " + getValute(price) + '</strong></span>';
+                    totalEle.innerHTML = '<span style="font-family:verdana,geneva,sans-serif;"><strong>' + parseFloat(numberToPrice(quantity * stringToNumber(price))).format(2) + " " + getValute(price) + '</strong></span>';
                 }
             }
         });
